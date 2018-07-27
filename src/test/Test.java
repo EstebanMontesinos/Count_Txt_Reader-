@@ -56,7 +56,11 @@ public static void main(String [] args) throws FileNotFoundException, IOExceptio
         System.out.println("Total number of sentences = " + sentenceCount);
         System.out.println("Total number of characters = " + characterCount);
         System.out.println("Number of paragraphs = " + paragraphCount);
+<<<<<<< HEAD
         System.out.println("Number of whitespaces = " + whitespaceCount);
+=======
+        System.out.println("Total number of whitespaces = " + whitespaceCount);
+>>>>>>> e0b53d070919c8bd0627b9d10b433cb6e88e8486
     }
 }
 
